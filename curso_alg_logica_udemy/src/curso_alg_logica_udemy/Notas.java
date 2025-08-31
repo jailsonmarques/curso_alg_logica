@@ -3,7 +3,7 @@ package curso_alg_logica_udemy;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class notas {
+public class Notas {
 
 	public static void main(String[] args) {
 		
