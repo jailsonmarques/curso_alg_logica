@@ -26,6 +26,8 @@ public class Notas {
 		} else {
 			System.out.println("APROVADO");
 		}
+		
+		sc.close();
 
 	}
 
